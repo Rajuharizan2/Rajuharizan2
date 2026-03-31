@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Raju%20Harizan">
 <h1 align="center">Hi 👋, I'm Raju Harizan</h1>
 <h3 align="center">A passionate Java Full-stack developer from Nepal</h3>
 
